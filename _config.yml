@@ -6,7 +6,6 @@ twitter_username: ahlearn
 github_username: ahlearn
 
 # Build settings
-markdown: redcarpet
 markdown_ext: md
 
 redcarpet:
